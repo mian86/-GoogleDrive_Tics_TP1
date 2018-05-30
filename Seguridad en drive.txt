@@ -1,0 +1,25 @@
+En primer lugar, todas las conexiones a Google Drive se cifran mediante el protocolo de transporte SSL, no importa si accedemos desde el
+navegador web, las aplicaciones de escritorio o las móviles.
+
+Una vez alojados en los servidores de Google, todos los datos son cifrados, y aunque los de Mountain View no son muy dados a pregonar
+los algoritmos y configuraciones que utilizan, se entiende que cumplen con los estándares que marca la industria.
+
+De hecho, la reconvertida aplicación de Google Docs para Android, ahora Google Drive, viene configurada por defecto para cifrar 
+también los documentos sin conexión que se almacenan en la memoria del teléfono, además de ofrecer la opción de descifrado de flujo 
+-o cifrado de stream-, suponemos para facilitar el uso del servicio en modo colaborativo o acelerar el acceso a los contenidos.
+
+Entonces, ¿cuán seguro es Google Drive? Atendiendo a lo dicho, tan seguro como cabría esperar, excepto en un único punto en el que 
+sucumben la mayoría de servicios similares y que no tiene por qué suponer ningún drama para
+quienes ya utilicen otros servicios de Google como Gmail o Picasa: la privacidad completa para con el usuario.
+
+Es decir, el nivel de seguridad de Drive es óptimo, pero en última instancia, los responsables del producto siempre podrán acceder
+a los datos del usuario. Lo mismo pasa con Dropbox, SkyDrive, iCloud, Ubuntu One y un largo etcétera de ejemplos. 
+
+Si lo anterior te preocupa o, en otras palabras, si quieres ser tú literalmente la única persona con la posibilidad de descifrar y ver 
+tu información, olvídate de los servicios más populares, lo tuyo es SpiderOak o Wuala, dos espléndidas alternativas de almacenamiento y
+sincronización de archivos en la nube que destacan por su seguridad, entre otras características. En cualquier caso, si no confías en nada
+ni en nadie, deberías cifrar tú mismo tus archivos, así cualquier servicio será definitivamente cien por cien seguro para alojar tu
+información.
+
+En definitiva, Google Drive se lleva un notable en seguridad, que sería sobresaliente si el factor de privacidad absoluta del que
+hemos hablado fuera puesto en práctica por el gigante de Internet (algo que no va a pasar).
